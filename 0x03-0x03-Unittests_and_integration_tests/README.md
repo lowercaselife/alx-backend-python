@@ -1,6 +1,6 @@
-#0x03-Unittests and Intergration tests
+# 0x03-Unittests and Intergration tests
 
-##Learning Objectives
+## Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 * The difference between unit and integration tests.
